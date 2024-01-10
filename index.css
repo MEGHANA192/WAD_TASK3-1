@@ -1,0 +1,28 @@
+*{
+    padding:0;
+    margin: 0;
+}
+h1{
+    color: white;
+    padding: 50px;
+    text-align: center;
+
+}
+
+.morning{
+    background-image: url("https://i.pinimg.com/originals/25/95/35/259535e53282a093a7886a8d7016c274.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.afternoon{
+    background-image: url("https://th.bing.com/th/id/OIP.cPtRlhZ7Y_zfaK1gRzQ7IQHaE8?rs=1&pid=ImgDetMain");
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.night{
+    background-image: url("https://images7.alphacoders.com/111/thumb-1920-1114508.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+}
